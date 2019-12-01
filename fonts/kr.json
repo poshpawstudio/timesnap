@@ -1,18 +1,22 @@
 {
-  {
-    "name": "NanumBarunpen",
-    "path": "NanumBarunpen.woff"
-  },
-  {
-    "name": "NanumBarunpen",
-    "path": "NanumBarunpen.woff"
-  },
-  {
-    "name": "NanumBarunpen",
-    "path": "NanumBarunpen.woff"
-  },
-  {
-    "name": "NanumBarunpen",
-    "path": "NanumBarunpen.woff"
-  },
+  "fonts":
+    [
+      {
+        "name": "NanumBarunpen",
+        "path": "NanumBarunpen.woff"
+      },
+      {
+        "name": "NanumBarunpen",
+        "path": "NanumBarunpen.woff"
+      },
+      {
+        "name": "NanumBarunpen",
+        "path": "NanumBarunpen.woff"
+      },
+      {
+        "name": "NanumBarunpen",
+        "path": "NanumBarunpen.woff"
+      },
+    ]
 }
+
