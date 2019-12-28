@@ -2,21 +2,36 @@
   "fonts":
     [
       {
-        "name": "NanumBarunpen",
-        "path": "NanumBarunpen.woff"
+        "name": "빛나는별",
+        "path": "Cafe24Shiningstar.ttf"
       },
       {
-        "name": "TDTDTadakTadak",
-        "path": "TDTDTadakTadak.woff"
+        "name": "고운밤",
+        "path": "Cafe24Oneprettynight.ttf"
       },
       {
-        "name": "TTMogujasusimgyeolL",
-        "path": "TTMogujasusimgyeolL.woff"
+        "name": "당당해",
+        "path": "Cafe24Dangdanghae.ttf"
       },
       {
-        "name": "SDMiSaeng",
-        "path": "SDMiSaeng.woff"
-      }
+        "name": "단정해",
+        "path": "Cafe24Danjunghae.ttf"
+      },
+            {
+        "name": "심플해",
+        "path": "Cafe24Simplehae.ttf"
+      },
+            {
+        "name": "동동",
+        "path": "Cafe24Dongdong.ttf"
+      },
+                  {
+        "name": "쑥쑥",
+        "path": "Cafe24Ssukssuk.ttf"
+      },
+                  {
+        "name": "숑숑",
+        "path": "Cafe24Syongsyong.ttf"
+      },
     ]
 }
-
