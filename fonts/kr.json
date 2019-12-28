@@ -17,21 +17,21 @@
         "name": "단정해",
         "path": "Cafe24Danjunghae.ttf"
       },
-            {
+      {
         "name": "심플해",
         "path": "Cafe24Simplehae.ttf"
       },
-            {
+      {
         "name": "동동",
         "path": "Cafe24Dongdong.ttf"
       },
-                  {
+      {
         "name": "쑥쑥",
         "path": "Cafe24Ssukssuk.ttf"
       },
-                  {
+      {
         "name": "숑숑",
         "path": "Cafe24Syongsyong.ttf"
-      },
+      }
     ]
 }
