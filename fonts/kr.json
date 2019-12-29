@@ -72,6 +72,26 @@
       {
         "name": "빙그레II",
         "path": "BinggraeⅡ-Bold.ttf"
+      },
+      {
+        "name": "경기도",
+        "path": "Gyunggi.ttf"
+      },
+      {
+        "name": "잘난체",
+        "path": "Jalnan.ttf"
+      },
+      {
+        "name": "나눔바른펜",
+        "path": "NanumBarunpenR.ttf"
+      },
+      {
+        "name": "타닥타닥",
+        "path": "TDTDTadakTadak.ttf"
+      },
+      {
+        "name": "어비미센",
+        "path": "UhBee mysen Bold.ttf"
       }
     ]
 }
