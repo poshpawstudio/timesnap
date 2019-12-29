@@ -1,0 +1,104 @@
+{
+  "en":
+    [
+      {
+        "name": "Roboto",
+        "path": "http://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf"
+      }
+    ],
+  "kr":
+    [
+      {
+        "name": "빛나는별",
+        "path": "Cafe24Shiningstar.ttf"
+      },
+      {
+        "name": "고운밤",
+        "path": "Cafe24Oneprettynight.ttf"
+      },
+      {
+        "name": "당당해",
+        "path": "Cafe24Dangdanghae.ttf"
+      },
+      {
+        "name": "단정해",
+        "path": "Cafe24Danjunghae.ttf"
+      },
+      {
+        "name": "심플해",
+        "path": "Cafe24Simplehae.ttf"
+      },
+      {
+        "name": "동동",
+        "path": "Cafe24Dongdong.ttf"
+      },
+      {
+        "name": "쑥쑥",
+        "path": "Cafe24Ssukssuk.ttf"
+      },
+      {
+        "name": "숑숑",
+        "path": "Cafe24Syongsyong.ttf"
+      },
+      {
+        "name": "도현",
+        "path": "BMDOHYEON.ttf"
+      },
+      {
+        "name": "을지로",
+        "path": "BMEULJIROTTF.ttf"
+      },
+      {
+        "name": "한나에어",
+        "path": "BMHANNAAir.ttf"
+      },
+      {
+        "name": "한나프로",
+        "path": "BMHANNAPro.ttf"
+      },
+      {
+        "name": "한나11살",
+        "path": "BMHANNA_11yrs.ttf"
+      },
+      {
+        "name": "주아",
+        "path": "BMJUA.ttf"
+      },
+      {
+        "name": "키랑해랑",
+        "path": "BMKIRANGHAERANG.ttf"
+      },
+      {
+        "name": "연성",
+        "path": "BMYEONSUNG.ttf"
+      },
+      {
+        "name": "빙그레",
+        "path": "Binggrae.ttf"
+      },
+      {
+        "name": "빙그레II",
+        "path": "BinggraeⅡ-Bold.ttf"
+      },
+      {
+        "name": "경기도",
+        "path": "Gyunggi.ttf"
+      },
+      {
+        "name": "잘난체",
+        "path": "Jalnan.ttf"
+      },
+      {
+        "name": "나눔바른펜",
+        "path": "NanumBarunpenR.ttf"
+      },
+      {
+        "name": "타닥타닥",
+        "path": "TDTDTadakTadak.ttf"
+      },
+      {
+        "name": "어비미센",
+        "path": "UhBee mysen Bold.ttf"
+      }
+    ]
+}
