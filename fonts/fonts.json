@@ -1,0 +1,293 @@
+{
+  "fonts": {
+    "ja": [
+      {
+        "name": "Noto Sans JP",
+        "family": "NotoSansJP",
+        "path": "http://fonts.gstatic.com/s/notosansjp/v24/-F62fjtqLzI2JPCgQBnw7HFowAIO2lZ9hg.otf"
+      },
+      {
+        "name": "Noto Serif JP",
+        "family": "NotoSerifJP",
+        "path": "http://fonts.gstatic.com/s/notoserifjp/v7/xn7mYHs72GKoTvER4Gn3b5eMXNikYkY0T84.otf"
+      },
+      {
+        "name": "M Plus 1p",
+        "family": "MPlus1P",
+        "path": "http://fonts.gstatic.com/s/mplus1p/v19/e3tjeuShHdiFyPFzBRro-D4Ec2jKqw.ttf"
+      },
+      {
+        "name": "Sawarabi Gothic",
+        "family": "SawarabiGothic",
+        "path": "http://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k3NBSk3E2YljQ.ttf"
+      },
+      {
+        "name": "Sawarabi Mincho",
+        "family": "NotoSansJP",
+        "path": "http://fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJTLahP46UDUw.ttf"
+      },
+      {
+        "name": "M PLUS Rounded 1c",
+        "family": "MPlusRounded1c",
+        "path": "http://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuPWGzr8C7vav.ttf"
+      },
+      {
+        "name": "Kosugi Maru",
+        "family": "KosugiMaru",
+        "path": "http://fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGiTqivr9iBq_.ttf"
+      },
+      {
+        "name": "Kosugi",
+        "family": "Kosugi",
+        "path": "http://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlI4NLr6f1pdEQ.ttf"
+      }
+    ],
+    "ko": [
+      {
+        "name": "고운밤",
+        "family": "Cafe24Oneprettynight",
+        "path": "Cafe24Oneprettynight.ttf"
+      },
+      {
+        "name": "민국체",
+        "family": "YoonMingukR",
+        "scaleAdjust": 0.9,
+        "bold": true,
+        "path": "YoonMingukR.otf"
+      },
+      {
+        "name": "동동",
+        "family": "Cafe24Dongdong",
+        "path": "Cafe24Dongdong.ttf"
+      },
+      {
+        "name": "나눔고딕",
+        "family": "NanumGothic",
+        "scaleAdjust": 0.9,
+        "path": "https://fonts.gstatic.com/s/a/384554f92bd4d754bd8750f8885c456c5264d6814731376178dd0727fcf2d98c.ttf"
+      },
+      {
+        "name": "나눔명조",
+        "family": "NanumMyeongjo",
+        "scaleAdjust": 0.9,
+        "path": "https://fonts.gstatic.com/s/a/3df71af0cacc55f9ee8f8e5e35a48672e379aefb187f3ae133a8fd5100c3810f.ttf"
+      },
+      {
+        "name": "나눔손글씨",
+        "family": "NanumPenScript",
+        "path": "https://fonts.gstatic.com/s/a/2e0017c2efd9b7de2cf1b9d90c99ebfd4be478763a4f265915ce2302d928a6f4.ttf"
+      },
+      {
+        "name": "나눔바른펜",
+        "family": "NanumBarunpenR",
+        "path": "NanumBarunpenR.ttf"
+      },
+      {
+        "name": "당당해",
+        "family": "Cafe24Dangdanghae",
+        "path": "Cafe24Dangdanghae.ttf"
+      },
+      { "name": "연성", "family": "BMYEONSUNG", "path": "BMYEONSUNG.ttf" },
+      {
+        "name": "목우자수심결",
+        "family": "JASUSIM",
+        "path": "JASUSIM.otf"
+      },
+      {
+        "name": "을지로",
+        "family": "BMEULJIROTTF",
+        "scaleAdjust": 0.9,
+        "path": "BMEULJIROTTF.ttf"
+      },
+      {
+        "name": "단정해",
+        "family": "Cafe24Danjunghae",
+        "path": "Cafe24Danjunghae.ttf"
+      },
+      {
+        "name": "심플해",
+        "family": "Cafe24Simplehae",
+        "path": "Cafe24Simplehae.ttf"
+      },
+      {
+        "name": "주아",
+        "scaleAdjust": 0.9,
+        "family": "BMJUA",
+        "path": "BMJUA.ttf"
+      },
+      {
+        "name": "도현",
+        "family": "BMDOHYEON",
+        "path": "BMDOHYEON.ttf",
+        "scaleAdjust": 0.9
+      },
+      {
+        "name": "빙그레",
+        "family": "Binggrae",
+        "path": "Binggrae.ttf",
+        "scaleAdjust": 0.8
+      },
+      {
+        "name": "빙그레2",
+        "family": "Binggrae2",
+        "path": "BinggraeⅡ-Bold.ttf",
+        "scaleAdjust": 0.8
+      },
+      { "name": "경기도", "family": "Gyunggi", "path": "Gyunggi.ttf" },
+      {
+        "name": "타닥타닥",
+        "family": "TDTDTadakTadak",
+        "path": "TDTDTadakTadak.ttf"
+      },
+      {
+        "name": "싱글데이",
+        "family": "SingleDay",
+        "path": "http://fonts.gstatic.com/s/singleday/v1/LYjHdGDjlEgoAcF95EI5jVoFUNfeQJU.ttf"
+      },
+      {
+        "name": "하이멜로디",
+        "family": "HiMelody",
+        "path": "http://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTbEf29E31BBGA.ttf"
+      },
+      {
+        "name": "큐트",
+        "family": "Cute",
+        "path": "http://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6vmJNVNC9hkw.ttf"
+      },
+      {
+        "name": "감자별",
+        "family": "GamjaFlower",
+        "path": "http://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4kyf9Fdty2ew.ttf"
+      },
+      {
+        "name": "개구",
+        "family": "Gaegu",
+        "path": "http://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU6ZLodgzydtk.ttf"
+      },
+      {
+        "name": "해바라기",
+        "family": "Sunflower",
+        "path": "http://fonts.gstatic.com/s/sunflower/v9/RWmPoKeF8fUjqIj7Vc-0sMbiqYsGBGBzCw.ttf"
+      },
+      {
+        "name": "빛나는별",
+        "family": "Cafe24Shiningstar",
+        "path": "Cafe24Shiningstar.ttf"
+      },
+      {
+        "name": "쑥쑥",
+        "family": "Cafe24Ssukssuk",
+        "path": "Cafe24Ssukssuk.ttf"
+      },
+      {
+        "name": "숑숑",
+        "family": "Cafe24Syongsyong",
+        "path": "Cafe24Syongsyong.ttf"
+      },
+      { "name": "한나에어", "family": "BMHANNAAir", "path": "BMHANNAAir.ttf" },
+      { "name": "한나프로", "family": "BMHANNAPro", "path": "BMHANNAPro.ttf" },
+      {
+        "name": "키랑해랑",
+        "family": "BMKIRANGHAERANG",
+        "path": "BMKIRANGHAERANG.ttf"
+      },
+      { "name": "잘난체", "family": "Jalnan", "path": "Jalnan.ttf" },
+      { "name": "다미체", "family": "Dami", "path": "fromdami.ttf" },
+      { "name": "고도마음체", "family": "GodoMaum", "path": "godoMaum.ttf" },
+      {
+        "name": "쿠키런",
+        "family": "CookieRun",
+        "path": "CookieRunRegular.ttf"
+      },
+      {
+        "name": "국대떡볶이체",
+        "family": "Kukdetopokki",
+        "path": "SDKukdetopokki-bBd.otf"
+      }
+    ],
+    "en": [
+      {
+        "name": "PatrickHand",
+        "path": "http://fonts.gstatic.com/s/a/b63c9a7041a5fc7005d8f0580dd04bf71c5eed9b4b6d843857ccb8f2485ebbf6.ttf"
+      },
+      {
+        "name": "Oswald",
+        "scaleAdjust": 0.9,
+        "path": "http://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUFoZAaRliE.ttf"
+      },
+      {
+        "name": "Inder",
+        "scaleAdjust": 0.9,
+        "path": "http://fonts.gstatic.com/s/inder/v8/w8gUH2YoQe8_4vq6pw-P3U4O.ttf"
+      },
+      {
+        "name": "Amatic SC",
+        "path": "http://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscG6eb8D3WTy-A.ttf"
+      },
+      {
+        "name": "Bungee",
+        "path": "http://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_ECn50Kd_PmA.ttf"
+      },
+      {
+        "name": "Chakra Petch",
+        "path": "http://fonts.gstatic.com/s/chakrapetch/v3/cIflMapbsEk7TDLdtEz1BwkebIlFQJXE3AY00g.ttf"
+      },
+      {
+        "name": "Josefin",
+        "path": "http://fonts.gstatic.com/s/josefinsans/v14/Qw3aZQNVED7rKGKxtqIqX5EkCnZ5dHw8iw.ttf"
+      },
+      {
+        "name": "VT323",
+        "path": "http://fonts.gstatic.com/s/vt323/v11/pxiKyp0ihIEF2hsYHpT2dkNE.ttf"
+      },
+      {
+        "name": "Philosopher",
+        "path": "http://fonts.gstatic.com/s/philosopher/v11/vEFV2_5QCwIS4_Dhez5jcVBpRUwU08qe.ttf"
+      },
+      {
+        "name": "Gelasio",
+        "path": "http://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCmrYGkHgIs.ttf"
+      },
+      {
+        "name": "Dosis",
+        "path": "http://fonts.gstatic.com/s/dosis/v16/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7MV3BkFTq4EPw.ttf"
+      },
+      {
+        "name": "Anton",
+        "path": "http://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm0K08i4gS7lu.ttf"
+      },
+      {
+        "name": "Cabin",
+        "path": "http://fonts.gstatic.com/s/cabin/v14/u-4x0qWljRw-Pe839fxqmjRv.ttf"
+      },
+      {
+        "name": "Lobster",
+        "path": "http://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9_oWsMqEzSJQ.ttf"
+      },
+      {
+        "name": "Pacifico",
+        "path": "http://fonts.gstatic.com/s/pacifico/v16/FwZY7-Qmy14u9lezJ96A4sijpFu_.ttf"
+      },
+      {
+        "name": "Barriecito",
+        "path": "http://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_KdUiYwTO0MU.ttf"
+      },
+      {
+        "name": "Charmonman",
+        "path": "http://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiWJGovLdh6OE.ttf"
+      },
+      {
+        "name": "KoHo",
+        "path": "http://fonts.gstatic.com/s/koho/v3/K2F-fZ5fmddNBikefJbSOos.ttf"
+      },
+      {
+        "name": "Dancing script",
+        "path": "http://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHTeB9ptDqpw.ttf"
+      },
+      {
+        "name": "Athiti",
+        "path": "http://fonts.gstatic.com/s/athiti/v4/pe0vMISdLIZIv1w4DBhWCtaiAg.ttf"
+      }
+    ]
+  }
+}
