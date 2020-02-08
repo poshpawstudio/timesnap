@@ -621,7 +621,7 @@
       "packageName": "arrows",
       "type": "paid",
       "expire": "",
-      "thumbnail": true,
+      "thumbnail": false,
       "mainSymbolId": 1,
       "items": [
         {
