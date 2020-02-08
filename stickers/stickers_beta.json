@@ -1,0 +1,53 @@
+{
+  "order": ["daily", "cloud", "patterns", "cute", "christmas"],
+  "packages": [
+    {
+      "packageName": "daily",
+      "type": "free",
+      "expire": "",
+      "thumbnail": true,
+      "mainSymbolId": 1,
+      "count": 30
+    },
+    {
+      "packageName": "cloud",
+      "type": "paid",
+      "expire": "",
+      "thumbnail": false,
+      "mainSymbolId": 1,
+      "count": 29
+    },
+    {
+      "packageName": "patterns",
+      "type": "paid",
+      "expire": "",
+      "thumbnail": false,
+      "mainSymbolId": 1,
+      "count": 49
+    },
+    {
+      "packageName": "cute",
+      "type": "paid",
+      "expire": "",
+      "thumbnail": false,
+      "mainSymbolId": 1,
+      "count": 37
+    },
+    {
+      "packageName": "christmas",
+      "type": "paid",
+      "expire": "",
+      "thumbnail": true,
+      "mainSymbolId": 1,
+      "count": 18
+    },
+    {
+      "packageName": "arrows",
+      "type": "paid",
+      "expire": "",
+      "thumbnail": true,
+      "mainSymbolId": 1,
+      "count": 30
+    }
+  ]
+}
