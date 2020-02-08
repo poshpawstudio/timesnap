@@ -34,20 +34,20 @@
       "count": 37
     },
     {
+      "packageName": "arrows",
+      "type": "paid",
+      "expire": "",
+      "thumbnail": true,
+      "mainSymbolId": 1,
+      "count": 68
+    },
+    {
       "packageName": "christmas",
       "type": "paid",
       "expire": "",
       "thumbnail": true,
       "mainSymbolId": 1,
       "count": 18
-    },
-    {
-      "packageName": "arrows",
-      "type": "paid",
-      "expire": "",
-      "thumbnail": true,
-      "mainSymbolId": 1,
-      "count": 30
     }
   ]
 }
