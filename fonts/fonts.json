@@ -1,5 +1,57 @@
 {
   "fonts": {
+    "th": [
+      {
+        "name": "ศรีราชา",
+        "family": "Sriracha",
+        "path": "http://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9ObYRQDioeb0.ttf"
+      },
+      {
+        "name": "คณิต",
+        "family": "Kanit",
+        "path": "http://fonts.gstatic.com/s/kanit/v5/nKKZ-Go6G5tXcoaSEQGodLxA.ttf"
+      },
+      {
+        "name": "มูลค่าจาน",
+        "family": "Sarabun",
+        "path": "http://fonts.gstatic.com/s/sarabun/v7/DtVjJx26TKEr37c9WBJDnlQN9gk.ttf"
+      },
+      {
+        "name": "ตาวีระj",
+        "family": "Taviraj",
+        "path": "http://fonts.gstatic.com/s/taviraj/v5/ahcZv8Cj3ylylTXzfO4hU-FwnU0.ttf"
+      },
+      {
+        "name": "มาลี",
+        "family": "Mali",
+        "path": "http://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eCrODlxxOd8.ttf"
+      },
+      {
+        "name": "ครับ",
+        "family": "Krub",
+        "path": "http://fonts.gstatic.com/s/krub/v3/sZlLdRyC6CRYXkYQDLlTW6E.ttf"
+      },
+      {
+        "name": "ใบจามจุรี",
+        "family": "Bai Jamjuree",
+        "path": "http://fonts.gstatic.com/s/baijamjuree/v3/LDI1apSCOBt_aeQQ7ftydoaMWcjKm7sp8g.ttf"
+      },
+      {
+        "name": "ศรีศักดิ์",
+        "family": "Thasadith",
+        "path": "http://fonts.gstatic.com/s/thasadith/v3/mtG44_1TIqPYrd_f5R1YsEkU0CWuFw.ttf"
+      },
+      {
+        "name": "พระอาทิตย์",
+        "family": "Athiti",
+        "path": "http://fonts.gstatic.com/s/athiti/v4/pe0vMISdLIZIv1w4DBhWCtaiAg.ttf"
+      },
+      {
+        "name": "จักรเพชร",
+        "family": "Chakra Petch",
+        "path": "http://fonts.gstatic.com/s/chakrapetch/v3/cIf6MapbsEk7TDLdtEz1BwkmmKBhSL7Y1Q.ttf"
+      }
+    ],
     "ja": [
       {
         "name": "Noto Sans JP",
