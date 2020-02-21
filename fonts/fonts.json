@@ -135,6 +135,21 @@
         "path": "NanumBarunpenR.ttf"
       },
       {
+        "name": "고양체",
+        "family": "Goyang",
+        "path": "Goyang.otf"
+      },
+      {
+        "name": "상상고딕",
+        "family": "Sangsang",
+        "path": "locus_sangsang.otf"
+      },
+      {
+        "name": "디자인하우스",
+        "family": "Designhouse",
+        "path": "designhouseOTFLight.otf"
+      },
+      {
         "name": "당당해",
         "family": "Cafe24Dangdanghae",
         "path": "Cafe24Dangdanghae.ttf"
