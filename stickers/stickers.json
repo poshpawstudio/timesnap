@@ -134,7 +134,7 @@
       "packageName": "cloud",
       "type": "paid",
       "expire": "",
-      "thumbnail": false,
+      "thumbnail": true,
       "mainSymbolId": 1,
       "items": [
         {
@@ -259,7 +259,7 @@
       "packageName": "patterns",
       "type": "paid",
       "expire": "",
-      "thumbnail": false,
+      "thumbnail": true,
       "mainSymbolId": 1,
       "items": [
         {
@@ -464,7 +464,7 @@
       "packageName": "cute",
       "type": "paid",
       "expire": "",
-      "thumbnail": false,
+      "thumbnail": true,
       "mainSymbolId": 1,
       "items": [
         {
@@ -621,7 +621,7 @@
       "packageName": "arrows",
       "type": "paid",
       "expire": "",
-      "thumbnail": false,
+      "thumbnail": true,
       "mainSymbolId": 1,
       "items": [
         {
